@@ -17,7 +17,7 @@ My exploration focused on understanding the current data-related job market in M
 - Q: If we were to visualize the hotspots for data-related jobs on a map of Michigan, where would those geographical hotspots be?  Where would there be "cooler" areas with less jobs?  Within that map, can we pinpoint the job locations and company?  What are the top three locations with the most data-related jobs posted?
   - See google map with heatmap layer, marker layer, and symbol layer.  The heatmap is showing that most data-related jobs exist on the East side of Michigan (metro Detroit to Ann Arbor region).  The markers depict a sample job from each city with the job title, company, city, and URL.  The three yellow symbols highlight the three cities with the most job postings (Detroit, Ann Arbor, and Dearborn).
 
-![Image of Gmap](https://github.com/APesch90/data_related_job_analysis/blob/master/Indeed_Layered_Gmap_Screenshot.png)
+![Image of Gmap](https://github.com/APesch90/data_related_jobs_analysis/blob/master/Indeed_Layered_Gmap_Screenshot.png)
 
 - Q: In Michigan, what are the top five *cities* in Michigan with the most data-related job postings currently?
 
